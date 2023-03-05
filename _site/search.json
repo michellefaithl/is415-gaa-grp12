@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "proposal.html",
+    "href": "proposal.html",
+    "title": "proposal",
+    "section": "",
+    "text": "Airbnb has achieved considerable global success with its short-term home-sharing business model, providing travellers with convenient and cost-effective accommodation options. Beijing, as one of the world’s largest cities and a popular tourist destination in China, is an ideal location to explore the impact of Airbnb on local communities, particularly in light of the COVID-19 pandemic and the resulting changes in travel patterns. Our project aims to compare Airbnb listing data in Beijing before and after the COVID-19 outbreak to understand how the pandemic has affected Airbnb activity and to identify the spatial patterns of listings in the city.\n\n\n\n\n\n\n\nKernel Density Estimation Analysis We could develop kernel density estimation analysis on Airbnb’s listing before and after covid, this could provide us valuable insights into the spatial distribution of Beijing’s Airbnb, identifying the hotspots for tourism, and see if the covid has changed this pattern and figure out the reason behind it."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "proposal.html#introduction",
+    "href": "proposal.html#introduction",
+    "title": "Proposal for is415 Project",
+    "section": "Introduction",
+    "text": "Introduction\nAirbnb has achieved considerable global success with its short-term home-sharing business model, providing travellers with convenient and cost-effective accommodation options. Beijing, as one of the world’s largest cities and a popular tourist destination in China, is an ideal location to explore the impact of Airbnb on local communities, particularly in light of the COVID-19 pandemic and the resulting changes in travel patterns. Our project aims to compare Airbnb listing data in Beijing before and after the COVID-19 outbreak to understand how the pandemic has affected Airbnb activity and to identify the spatial patterns of listings in the city."
+  },
+  {
+    "objectID": "proposal.html#objectives",
+    "href": "proposal.html#objectives",
+    "title": "Proposal for is415 Project",
+    "section": "Objectives",
+    "text": "Objectives\n\n1.0 Spatial Point Patterns Analysis\n\n1.1 First-order Spatial Point Patterns Analysis\nKernel Density Estimation Analysis: We could develop kernel density estimation analysis on Airbnb’s listing before and after covid, this could provide us valuable insights into the spatial distribution of Beijing’s Airbnb, identifying the hotspots for tourism, and see if the covid has changed this pattern and figure out the reason behind it.\n\n\n1.2 Second-order Spatial Point Patterns Analysis\nAfter we analysed the spatial point patterns, we have to confirm the observations statistically by choosing representative study areas using L function. The hypothesis is as follows: - H0: The distribution of Airbnb Listings in beijing are randomly distributed. - H1: The distribution of Airbnb Listings are not randomly distributed.\n\n\n\n2.0 Spatial Autocorrelation Analysis\nWe will aim to analyse the high and low clustering of airbnb listings in Beijing, determine if there is significant clustering on a global and local level as well as conduct Local Indicators of Spatial Correlation analysis that identifies regions that are positively or negatively correlated to each other.\nAdditionally, Emerging Hot Spot Analysis can be conducted to determine how hot and cold spots change over time, particularly with the variation during the pandemic period."
+  },
+  {
+    "objectID": "proposal.html#related-works",
+    "href": "proposal.html#related-works",
+    "title": "Proposal for is415 Project",
+    "section": "Related Works",
+    "text": "Related Works\n\nInvestigates how Beijing’s airbnb apartments are affecting housing prices in the region with the use of a machine learning model to analyse price sensitivity as a result of increasing airbnb activities in Beijing. It provides policy recommendations on regulating short-term rental businesses based on a neighbourhood’s price sensitivity.\n\nhttps://filipbiljecki.com/publications/2019_sdsc_airbnb_beijing.pdf Li, J. I. A. L. I. N., & Biljecki, F. I. L. I. P. (2019). The implementation of big data analysis in regulating online short-term rental business: a case of Airbnb in Beijing. ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, 4, 79-86.\n\nThis paper investigates the locational factors affecting airbnb listings in beijing and aims to verify a hedonic pricing theory - a model that states both internal and external characteristics and factors determines an item’s price in the market - using spatial econometrics models on airbnb apartments. It aims to determine if the price of airbnb apartments are dependent on location, and quantify the effects of proximity to amenities like city centres, tourist attractions and transport facilities.\n\nhttps://ecommons.cornell.edu/handle/1813/103153 Guo, X. (2020, August 1). The value of location for Airbnb Apartments: A hedonic analysis of Airbnb listing price in Beijing. Home Page. Retrieved March 5, 2023, from https://doi.org/10.7298/6s0s-zt49\n\n\nMajority of current studies are looking at airbnb listings from a price standpoint, and little geospatial research has been done on airbnb listings in Beijing during covid. We aim to offer a geospatial analysis perspective of Beijing’s airbnb apartments that will reveal important spatial patterns that can be considered either on individual level in terms of considering future locations of airbnb apartments,  or on a policy level in terms of regulating rental businesses like airbnb post covid."
+  },
+  {
+    "objectID": "proposal.html#other-references",
+    "href": "proposal.html#other-references",
+    "title": "Proposal for is415 Project",
+    "section": "Other References",
+    "text": "Other References\n\nZhao, C., Wu, Y., Chen, Y., & Chen, G. (2023). Multiscale Effects of Hedonic Attributes on Airbnb Listing Prices Based on MGWR: A Case Study of Beijing, China. Sustainability, 15(2), 1703. https://doi.org/10.3390/su15021703\nWen-jie, B. I., & Chun-juan, F. U. (2022). Price Estimation and Determinants Research of Airbnb with Machine Learning: Based on Data from Beijing. Operations Research and Management Science, 31(9), 217. http://www.jorms.net/EN/abstract/abstract11099.shtml\nHargrave, M. (2023, February 28). Hedonic pricing: Definition, how the model is used, and example. Investopedia. Retrieved March 5, 2023, from https://www.investopedia.com/terms/h/hedonicpricing.asp"
+  },
+  {
+    "objectID": "proposal.html#datasets",
+    "href": "proposal.html#datasets",
+    "title": "Proposal for is415 Project",
+    "section": "Datasets",
+    "text": "Datasets\n\nBeijing airbnb listing before covid: Link\nBeijing airbnb listing after covid: Link"
+  }
+]
