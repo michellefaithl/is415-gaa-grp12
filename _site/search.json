@@ -1,17 +1,17 @@
 [
   {
-    "objectID": "proposal.html",
-    "href": "proposal.html",
-    "title": "proposal",
-    "section": "",
-    "text": "Airbnb has achieved considerable global success with its short-term home-sharing business model, providing travellers with convenient and cost-effective accommodation options. Beijing, as one of the world’s largest cities and a popular tourist destination in China, is an ideal location to explore the impact of Airbnb on local communities, particularly in light of the COVID-19 pandemic and the resulting changes in travel patterns. Our project aims to compare Airbnb listing data in Beijing before and after the COVID-19 outbreak to understand how the pandemic has affected Airbnb activity and to identify the spatial patterns of listings in the city.\n\n\n\n\n\n\n\nKernel Density Estimation Analysis We could develop kernel density estimation analysis on Airbnb’s listing before and after covid, this could provide us valuable insights into the spatial distribution of Beijing’s Airbnb, identifying the hotspots for tourism, and see if the covid has changed this pattern and figure out the reason behind it."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "is415-gaa-grp12",
+    "section": "",
+    "text": "We are a group of students under Prof Kam, doing IS415 Geospatial Analytics and Applications AY2022-23 Semester 2."
   },
   {
     "objectID": "proposal.html#introduction",
@@ -47,12 +47,5 @@
     "title": "Proposal for is415 Project",
     "section": "Datasets",
     "text": "Datasets\n\nBeijing airbnb listing before covid: Link\nBeijing airbnb listing after covid: Link"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "is415-gaa-grp12",
-    "section": "",
-    "text": "We are a group of students under Prof Kam, doing IS415 Geospatial Analytics and Applications AY2022-23 Semester 2."
   }
 ]
