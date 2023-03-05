@@ -2,4 +2,4 @@
 title: "is415-gaa-grp12"
 ---
 
-We are a group of students under Prof Kam, doing IS415 Geospatial Analytics and Applications.
+We are a group of students under Prof Kam, doing IS415 Geospatial Analytics and Applications AY2022-23 Semester 2.
