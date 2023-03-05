@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: "proposal.html"
+      - href: "/proposal/proposal.html"
         text: Proposal
 
 format:
